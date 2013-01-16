@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 $_SERVER['Accept-Encoding'];
 ini_set('zlib.output_compression', 'on');
@@ -582,5 +582,4 @@ class Loader
                 var_export($var, true) : $var);
     }
 }
-?>
-
+?>                        
